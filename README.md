@@ -3,7 +3,7 @@
 <h1 align="center">FreeLancer</h1>
 
 <div align="center">
-   Second template made with HTML, CSS and JS
+   Second template made with HTML, CSS and JS 
 </div>
 
 <div align="center">
